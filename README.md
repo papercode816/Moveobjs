@@ -2,7 +2,7 @@
 
 # The code for Move-Exact and Move-Approx
 
-This repo contains the source code for the Move-Exact and Move-Approx model.
+This repo contains the source code for the Move-Exact and Move-Approx models.
 
 
 ## Programming language
