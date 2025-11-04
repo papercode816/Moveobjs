@@ -30,7 +30,7 @@ We extract all check-in and check-out station and timestamp information for all 
 
 
 
-## How to run the code for RegGC
+## How to run the code
 ```
 python move_exact.py
 python evaluation.py
